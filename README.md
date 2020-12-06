@@ -1,4 +1,4 @@
- #Country-flags-of-the-world
+ # Country-flags-of-the-world
 
 
 1. create new virtual environment of your choice
@@ -7,4 +7,4 @@
 3. Start notebook
 `jupyter notebook`
 
-You can also view the notebook hosting at:
+You can also view the notebook hosting at: [nbviewer](https://nbviewer.ipython.org/github/aishraghavan/Country-flags-of-the-world/blob/main/Country%20flags%20of%20the%20world.ipynb)
