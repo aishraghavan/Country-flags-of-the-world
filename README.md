@@ -1,4 +1,4 @@
- # Country-flags-of-the-world
+ # Country flags of the world - Ipython
 
 
 1. create new virtual environment of your choice
