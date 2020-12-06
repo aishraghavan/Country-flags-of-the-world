@@ -3,6 +3,9 @@
 ## About
 A project to parse html and display different country flags of the world using ipython widgets and html parser. This allows the user select a country in dropdown widget and displays the country flags in a cell.
 
+## Credits
+Credits for Source for all flags can be found at https://flagpedia.net/index
+
 ## How to run the code?
 1. create new virtual environment of your choice
 2. Install requirements
